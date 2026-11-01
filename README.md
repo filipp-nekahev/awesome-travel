@@ -131,6 +131,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | API    | Description            | Link                                    |
 | ------ | ---------------------- | --------------------------------------- |
 | TripIt | Travel Information API | [Go!](https://www.tripit.com/developer) |
+| KeyFlight PNR API | Decodes Amadeus, Sabre, Galileo and Worldspan PNR text into JSON and a readable itinerary; also a remote MCP server. Paid (subscription). | [Go!](https://keyflight.io/pnr-api) |
 
 ### Tours
 
